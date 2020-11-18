@@ -1,0 +1,167 @@
+{
+    "product":[
+        {"_id":"dress 1",
+         "title":"dress 1",
+         "image":"/image/dress 1.jpg",
+          "description":"about dress 1",                   
+            "price":20,
+            "avaiablesizes":["S","M","L","XL"]
+        }
+    ]
+}
+{
+    "product":[
+        {"_id":"dress 2",
+         "title":"dress 2",
+         "image":"/image/dress 2.jpg",
+          "description":"about dress 2",                   
+            "price":24,
+            "avaiablesizes":["S","M","L","XL"]
+        }
+    ]
+}
+
+
+{
+    "product":[
+        {"_id":"dress 3",
+         "title":"dress 3",
+         "image":"/image/dress 3.webp",
+          "description":"about dress 3",                   
+            "price":26,
+            "avaiablesizes":["S","M","L","XL"]
+        }
+    ]
+}
+{
+    "product":[
+        {"_id":"dress 4",
+         "title":"dress 4",
+         "image":"/image/dress 4.jpg",
+          "description":"about dress 4",                   
+            "price":14,
+            "avaiablesizes":["S","M","L","XL"]
+        }
+    ]
+}
+{
+    "product":[
+        {"_id":"dress 5",
+         "title":"dress 5",
+         "image":"/image/dress 5.jpg",
+          "description":"about dress 5",                   
+            "price":20,
+            "avaiablesizes":["S","M","L","XL"]
+        }
+    ]
+}
+{
+    "product":[
+        {"_id":"dress 6",
+         "title":"dress 6",
+         "image":"/image/dress 6.jpg",
+          "description":"about dress 6",                   
+            "price":28,
+            "avaiablesizes":["S","M","L","XL"]
+        }
+    ]
+}
+{
+    "product":[
+        {"_id":"dress 7",
+         "title":"dress 7",
+         "image":"/image/dress 7.jpg",
+          "description":"about dress 7",                   
+            "price":20,
+            "avaiablesizes":["S","M","L","XL"]
+        }
+    ]
+}
+{
+    "product":[
+        {"_id":"dress 8",
+         "title":"dress 8",
+         "image":"/image/dress 8.jpg",
+          "description":"about dress 8",                   
+            "price":20,
+            "avaiablesizes":["S","M","L","XL"]
+        }
+    ]
+}
+{
+    "product":[
+        {"_id":"dress 9",
+         "title":"dress 9",
+         "image":"/image/dress 9.webp",
+          "description":"about dress 9",                   
+            "price":10,
+            "avaiablesizes":["S","M","L","XL"]
+        }
+    ]
+}
+{
+    "product":[
+        {"_id":"dress 10",
+         "title":"dress 10",
+         "image":"/image/dress 10.jpg",
+          "description":"about dress 10",                   
+            "price":29,
+            "avaiablesizes":["S","M","L","XL"]
+        }
+    ]
+}
+{
+    "product":[
+        {"_id":"dress 11",
+         "title":"dress 11",
+         "image":"/image/dress 11.webp",
+          "description":"about dress 11",                   
+            "price":31,
+            "avaiablesizes":["S","M","L","XL"]
+        }
+    ]
+}
+{
+    "product":[
+        {"_id":"dress 12",
+         "title":"dress 12",
+         "image":"/image/dress 12.jpg",
+          "description":"about dress 12",                   
+            "price":35,
+            "avaiablesizes":["S","M","L","XL"]
+        }
+    ]
+}
+{
+    "product":[
+        {"_id":"dress 13",
+         "title":"dress 13",
+         "image":"/image/dress 13.jpg",
+          "description":"about dress 13",                   
+            "price":27,
+            "avaiablesizes":["S","M","L","XL"]
+        }
+    ]
+}
+{
+    "product":[
+        {"_id":"dress 14",
+         "title":"dress 14",
+         "image":"/image/dress 14.webp",
+          "description":"about dress 14",                   
+            "price":20,
+            "avaiablesizes":["S","M","L","XL"]
+        }
+    ]
+}
+{
+    "product":[
+        {"_id":"dress 15",
+         "title":"dress 15",
+         "image":"/image/dress 15.jpg",
+          "description":"about dress 15",                   
+            "price":25,
+            "avaiablesizes":["S","M","L","XL"]
+        }
+    ]
+}
